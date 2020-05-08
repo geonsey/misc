@@ -31,69 +31,6 @@
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
-# Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
-# Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
-# Update: 1/06/2020 - NEW CHANNEL: The Miracle Channel added in CANADIAN TV, view online: https://miraclechannel.ca/live.
-# Update: 1/06/2020 - CHANNEL MAINTENANCE: Cheddar Networks, as well as NewsNet (SD) original network live stream sources updated.
-# Update: 1/07/2020 - NEW CHANNEL CATEGORY: (by request) Added a selection of AUSTRALIAN TV live news and sports news channels.
-# Update: 1/14/2020 - NEW CHANNEL ADDED: Just for the kiddies: tvo KIDS 24/7 live stream/channel added in CANADIAN TV category.
-# Update: 1/14/2020 - CHANNEL MAINTENANCE: Updated ABC-TV (1) [USA FREE OTA TV]; Miami TV / Miami TV Jenny [Travel & Tourism].
-# Update: 1/15/2020 - CHANNEL MAINTENANCE: Added additional resolutions of the Olympic Channel. Now 480p through 1080p.
-# Update: 1/18/2020 - NEW CHANNELS ADDED: In the SPORTS category: added The Tennis Channel Plus 1 and 2; BeIN Sports Xtra.
-# Update: 1/18/2020 - NEW CHANNELS ADDED: In SPECIAL INTEREST: This Old House 24x7; The Design Channel; AFV Family (Viral Videos).
-# Update: 1/18/2020 - NEW CHANNELS ADDED: Added Stirr TV 24x7 category with the best of 24x7 series marathons.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: USA FREE OTA TV cleaned up. Added THE TENNIS CHANNEL FREE category with 5 free streams.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated live links for Miami TV / Miami TV - Jenny in TRAVEL & TOURISM category.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated new sources for Charge! and Comet TV. Added Jasmin.TV (International TV).
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated all links to new sources in the LIVE NEWS category.
-# Update: 1/20/2020 - NEW RADIO CHANNELS ADDED: By request, added new radio streams from Halifax, NS in LIVE RADIO CANADA category. 
-# Update: 1/22/2020 - CHANNEL MAINTENANCE: Cleaned up and updated PLUTO TV (2) MOVIES with top popular channels in this category.
-# Update: 1/23/2020 - CATEGORY PLAYLIST: Moved USA FREE OTA and USA FREE OTA TV25 categories ahead in the playlist. 
-# Update: 1/23/2020 - NEW CHANNELS ADDED: All available channels from ANTHYM TV (https://www.anthym.tv/livetv) in a new category.
-# Update: 1/24/2020 - PLAYLIST MAINTENANCE: Optimized playlist for use with KODI (updated tags for RADIO channels).
-# Update: 1/25/2020 - MAJOR UPDATE: Introducing new EPG service! Only available on select channels. See video in ABOUT US + EXTRAS.
-# Update: 1/25/2020 - EPG MAINTENANCE: Added EPG service to the entire USA FREE OTA TV25 category, channels from http://tv25.tv. 
-# Update: 1/25/2020 - EPG MAINTENANCE: Added new category (EPG | Free2View TV) which adds duplicate channels with EPG listings.
-# Update: 1/26/2020 - EPG MAINTENANCE: Updated additional channels in the ** EPG | Free2View TV ** category.
-# Update: 1/28/2020 - CATEGORY MAINTENANCE: Relocated LIVE NEWS category near EPG categories; cleaned up channels; added EPG.
-# Update: 1/28/2020 - PLAYLIST MAINTENANCE: Removed ANTHYM TV channels, not really "live", just redundant YouTube playlists.
-# Update: 1/28/2020 - CHANNEL MAINTENANCE: moved SportsGrid Network to the SPORTS category. Deleted Tennis Channel Plus 4 (dead).
-# Update: 1/28/2020 - CHANNEL MAINTENANCE: updated 247 Retro TV stream link in "Nostalgia Flicks" category.
-# Update: 1/29/2020 - NEW CHANNELS ADDED: NBC News Now launches official 24/7 live stream, added to respective NEWS categories.
-# Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
-# Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
-# Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
-# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels. Cleaned up / updated USA FREE OTA TV channels.
-# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added / CBS News Minnesotta updated in CBS Interactive category.
-# Update: 2/02/2020 - NEW CHANNELS: Added additional channels in the USA FREE OTA TV category (K36JH 36.4, Impulse TV; KVVB 33.1).
-# Update: 2/02/2020 - PLAYLIST MAINTENANCE: Added/updated channels in various Pluto TV categories.
-# Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
-# Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
-# Update: 2/09/2020 - NEW CHANNELS / CATEGORY: Added "WatchYour.TV | TVS" category with all available channels.
-# Update: 2/10/2020 - PLAYLIST MAINTENANCE: Cleaned up and replaced new sources in the "EPG | Live News" category.
-# Update: 2/12/2020 - CHANNEL MAINTENANCE: "WatchYour.TV | TVS" replaced with sources from https://www.ginikousa.com/index.php
-# Update: 2/14/2020 - NEW CHANNELS / CATEGORY: Added new "Redbox Free Live TV" with Redbox exclusive channels.
-# Update: 2/14/2020 - CHANNEL MAINTENANCE: Cleaned up / Updated PLUTO TV and STIRR TV channel streams.
-# Update: 2/15/2020 - NEW CHANNEL ADDED: Added D5 TV, a French entertainment channel, into the International TV category.
-# Update: 2/21/2020 - PLAYLIST MAINTENANCE: Removed dupe channels from CBSi cat., renamed as CBS NEWS to accommodate new channels.
-# Update: 2/21/2020 - NEW CHANNELS ADDED: Added CBS News Denver to CBS NEWS. Added TVA (Geo) to CANADIAN TV.
-# Update: 2/23/2020 - NEW CHANNELS ADDED: Stadium Channel in HD in SPORTS category. New channels added in Distro TV category.
-# Update: 2/27/2020 - CHANNEL MAINTENANCE: Cleaned up some Pluto TV channels, deleted some dead links, replaced others with new links.
-# Update: 3/01/2020 - CHANNELS REMOVED: Removed the LIVE NEWS category. Unable to locate replacement sources for a while.
-# Update: 3/07/2020 - NEW CHANNELS ADDED: By request, added three Canadian Public Affairs Channels in CANADIAN TV.
-# Update: 3/07/2020 - NEW CHANNELS ADDED: CBS News | CBSN Pittsburgh. Also, the entire DISTRO TV channel line-up.
-# Update: 3/09/2020 - PLAYLIST MAINTENANCE: Added new FRANCOPHONE TV category, added/relocated some French-language channels.
-# Update: 3/15/2020 - PLAYLIST MAINTENANCE: Updated Pluto TV channels.
-# Update: 3/21/2020 - NEW CHANNEL ADDED: Added Assemblee Nationale du Quebec in Canadian TV and Francophone TV categories.
-# Update: 3/21/2020 - NEW CHANNELS ADDED: From https://www.ftfnext.com, added 2 new Geo-USA sports channels.
-# Update: 3/21/2020 - PLAYLIST MAINTENANCE: VSiN has gone behind a pay-wall and no longer free to the public; it has been removed.
-# Update: 3/21/2020 - NEW CHANNELS ADDED: From Pluto TV, added 308 Spike TV's COPS, 373 McLeod's Daughters, 233 NBC News Now.
-# Update: 3/22/2020 - PLAYLIST MAINTENANCE: Removed dead streams: JUCE TV; MusicChoice Play.
-# Update: 3/23/2020 - NEW CHANNELS ADDED: Added alternate link for CBC News Canada in NEWS & WEATHER category.
-# Update: 3/24/2020 - TEMPORARY CHANNEL ADDED: French-Canadian news channel, LCN, has been unlocked for 2 weeks; added here for now.
-# Update: 3/25/2020 - NEW CHANNELS ADDED: One Day At A Time channel from Pluto TV; COVID-19 News channel from Stirr TV.
-# Update: 3/28/2020 - PLAYLIST MAINTENANCE: Removed MLB Network, Sky News UK; (dead links). Updated USA FREE OTA TV links.
-# Update: 3/28/2020 - NEW CHANNEL ADDED: World Harvest Television: https://familybroadcastingcorporation.com/wht/watch-live/
 # Update: 4/04/2020 - NEW CHANNELS ADDED: Added 5 more channels from https://www.watchyour.tv/channels.php
 # Update: 4/04/2020 - NEW CHANNELS ADDED: By Request, added Channel 7 from Australia: https://7plus.com.au/live-tv
 # Update: 4/05/2020 - NEW CHANNELS ADDED: Updated additional channels added this week from Distro TV: https://www.distro.tv/
@@ -236,7 +173,7 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium | Live HD
 https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel (Team USA)
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
@@ -418,7 +355,7 @@ https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e086
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 4
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",IOC-USA Olympic Channel USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel | Team USA
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 1 | 1080p
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -666,6 +603,12 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 
 #EXTINF:-1 tvg-id="I4.10097.zap2it.com" tvg-name="4" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png",EPG | CBC Ottawa (GEO-CA)
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+
+#EXTINF:-1 tvg-id="I165.11180.zap2it.com" tvg-name="165 TRAV" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true",!! EPG ONLY !! Travel US
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?1
+
+#EXTINF:-1 tvg-id="I28.10021.zap2it.com" tvg-name="28 AMC" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true",!! EPG ONLY !! AMC US
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?2
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Distro TV | Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
