@@ -1223,11 +1223,15 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",451 Stingray NatureScape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="TuneIn Radio",TuneIn | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?1
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_ClassicHits_446x446.png?raw=true" group-title="TuneIn Radio" radio="true",TuneIn Classic Hits
 http://rfcmedia.streamguys1.com/classichits.mp3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="TuneIn Radio" radio="true",TuneIn | MSNBC (Audio)
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",Radio | CA | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",RADIO CBC Radio 1 (Ottawa CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",RADIO CBC Music (Eastern CA)
@@ -1255,6 +1259,8 @@ https://16903.live.streamtheworld.com/CJCHFM_ADP/HLS/18868/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA" radio="true",103.5 Hot Country FM Halifax
 https://ice41.securenetsystems.net/CKHZ?playSessionID=DDE8F872-B643-75C1-B575F0E56DF4B0CB
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",Radio | USA | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",RADIO NPR WRVO Public Media
 http://16813.live.streamtheworld.com/WRVOFM_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",RADIO NPR WAMU 88.5
@@ -1274,6 +1280,8 @@ http://17533.live.streamtheworld.com:80/CSPAN2AAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA" radio="true",TV AUDIO C-SPAN 3
 http://17533.live.streamtheworld.com:80/CSPAN3AAC_SC
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",Radio | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO Heart Extra Christmas
 http://ice-sov.musicradio.com/Heartextra
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO Jamendo Lounge
@@ -1281,6 +1289,8 @@ http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD" radio="true",RADIO radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",Radio | OTR | Radio Wallpaper
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR Antioch OTR
 http://209.95.56.101:8000/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR AM600 Conyers OTR
