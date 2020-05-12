@@ -1227,10 +1227,10 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?1
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_ClassicHits_446x446.png?raw=true" group-title="TuneIn + iHeart Radio" radio="true",TuneIn Classic Hits
 http://rfcmedia.streamguys1.com/classichits.mp3
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="TuneIn + iHeart Radio" radio="true",TuneIn | MSNBC (Audio)
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="TuneIn + iHeart Radio" radio="true",TuneIn News | MSNBC (Audio)
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeart80sRadio_225x225.png?raw=true" group-title="TuneIn + iHeart Radio" radio="true",iHeart Radio | iHeart80s
-https://n1fa-e2.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeart80sRadio_225x225.png?raw=true" group-title="TuneIn + iHeart Radio" radio="true",iHeart Radio | iHeart80s Radio
+https://n15a-e2.revma.ihrhls.com/zc5060/21_6f9275uxxz8h02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",Radio | CA | Radio Wallpaper
 https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/OldRadio_WallpaperVID.mp4?2
