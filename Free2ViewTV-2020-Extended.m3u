@@ -53,6 +53,8 @@
 # Update: 5/08/2020 - NEW CHANNELS ADDED: Added new GLOBAL NEWS CANADA category with all available regional news streams.
 # Update: 5/09/2020 - NEW CHANNELS ADDED: Added CBS Sports HQ into Pluto+ category; Lively Place into Pluto TV Greats.
 # Update: 5/09/2020 - NEW: Added Stingray Music category (near Radio/Audio section at the end of the playlist), sourced from Stirr TV.
+# Update: 5/14/2020 - NEW CHANNELS ADDED: Added DIY DAILY channel in the Special Interest category.
+# Update: TBD...TBD - NEW RADIO CHANNELS ADDED: Added new TuneIn + iHeartRadio category with a variety of news and music channels.
 #
 # ************************************************************************************************************************************* 
 
@@ -211,6 +213,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="Special Interest",The Design Network
 https://pcva4.manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/bc043d28-c655-4bf9-a8ef-604d2906c7aa/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=323
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DIYDaily_200x200.png?raw=true" group-title="Special Interest",DIY Daily
+https://manifest.auditude.com/auditude/variant/endemol_restore_1/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=321;distributor=roku;ip=64.225.30.167;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.129+Safari/537.36+OPR/68.0.3618.63;content=e6b7f1e42c515af3b87341cd4d043b96;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=ROKU_ADS_CONTENT_RATING&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl791366672
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" group-title="Special Interest",AFV Family (Viral Videos)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
