@@ -203,6 +203,8 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Special Interest",TWiT (Tech News)
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESTV_240x240.png?raw=true" group-title="Special Interest",ESTV | eSports Television
+https://estv-roku.amagi.tv/hls/amagi_hls_data_estvAAAAA-estv/CDN/384x216_358600/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" group-title="Special Interest",Mobcrush (Video Games)
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" group-title="Special Interest",RT-TV (Video Games)
@@ -1153,6 +1155,25 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Francophone TV",Canada | Assemblee Nationale
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1589671397~exp=1589757797~acl=/i/*~hmac=6970274b30b054c8a768be4c559a5ca306dedff5e317f58c6ac582de252a4b29&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",K2
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1589671603~exp=1589758003~acl=/i/*~hmac=c7b17960467e4f7cde6f0ccc3430265a9f41ac5c112c609e2bfa6cdbe6dc08de&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1589671629~exp=1589758029~acl=/i/*~hmac=d9c1bd58626851e83d2951ffada2fd18511d8d205621183583a9c9aadcc5cc53&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1589671655~exp=1589758055~acl=/i/*~hmac=38f487242f4664f2546cad64e395f8ad9fe79a46fbf216e309b35b4eb93720bd&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1589671753~exp=1589758153~acl=/i/*~hmac=611b68561783096d495171ae68f7f60bcee04045b0d4582aa2ed5b76cd10e12e&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",DMax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?hdnts=st=1589671774~exp=1589758174~acl=/i/*~hmac=29c9bfdffe78b980782305038aa3dcb39aeae0fa7646d0a5a3ba690859928db3&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671793~exp=1589758193~acl=/i/*~hmac=64f4d865b9e99fbd79b8a24a4a49d12d87c0550a131c39cc206bc22ad1ffae39&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Frisbee
+https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1589671810~exp=1589758210~acl=/i/*~hmac=942cbb65aa72d72ad9b53d33efe3ca0fddccfc1fd395dec0191e3b37e0c83443&mux_audio=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",HGTV
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/placeholders/OOPS_Out-Of-Service_Xmas-1.mp4?raw=true
