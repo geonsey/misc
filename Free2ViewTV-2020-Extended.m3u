@@ -54,6 +54,8 @@
 # Update: 5/09/2020 - NEW CHANNELS ADDED: Added CBS Sports HQ into Pluto+ category; Lively Place into Pluto TV Greats.
 # Update: 5/09/2020 - NEW: Added Stingray Music category (near Radio/Audio section at the end of the playlist), sourced from Stirr TV.
 # Update: 5/14/2020 - NEW CHANNELS ADDED: Added DIY DAILY channel in the Special Interest category.
+# Update: 5/17/2020 - NEW CHANNELS ADDED: By special request, added new ITALY | DPLAY category, Discovery networks in Italian. 
+# Update: 5/17/2020 - NEW CHANNELS ADDED: Added new category: Music Video | DJing 
 # Update: TBD...TBD - NEW RADIO CHANNELS ADDED: Added new TuneIn + iHeartRadio category with a variety of news and music channels.
 #
 # ************************************************************************************************************************************* 
@@ -1156,23 +1158,23 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ANDQ_603x603.png?raw=true" group-title="Francophone TV",Canada | Assemblee Nationale
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",MotorTrend
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1589671397~exp=1589757797~acl=/i/*~hmac=6970274b30b054c8a768be4c559a5ca306dedff5e317f58c6ac582de252a4b29&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",K2
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | K2
 https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1589671603~exp=1589758003~acl=/i/*~hmac=c7b17960467e4f7cde6f0ccc3430265a9f41ac5c112c609e2bfa6cdbe6dc08de&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Nove
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1589671629~exp=1589758029~acl=/i/*~hmac=d9c1bd58626851e83d2951ffada2fd18511d8d205621183583a9c9aadcc5cc53&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Giallo
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1589671655~exp=1589758055~acl=/i/*~hmac=38f487242f4664f2546cad64e395f8ad9fe79a46fbf216e309b35b4eb93720bd&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Real Time
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1589671753~exp=1589758153~acl=/i/*~hmac=611b68561783096d495171ae68f7f60bcee04045b0d4582aa2ed5b76cd10e12e&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",DMax
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | DMax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?hdnts=st=1589671774~exp=1589758174~acl=/i/*~hmac=29c9bfdffe78b980782305038aa3dcb39aeae0fa7646d0a5a3ba690859928db3&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Food Network
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671793~exp=1589758193~acl=/i/*~hmac=64f4d865b9e99fbd79b8a24a4a49d12d87c0550a131c39cc206bc22ad1ffae39&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Frisbee
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Frisbee
 https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1589671810~exp=1589758210~acl=/i/*~hmac=942cbb65aa72d72ad9b53d33efe3ca0fddccfc1fd395dec0191e3b37e0c83443&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",HGTV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | HGTV
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
@@ -1220,6 +1222,35 @@ https://fastly.tubi.video/c770ab08-77f9-4593-993f-aacc32327121/xcn42yn6/stream.m
 https://ipad2snagfilms.akamaized.net/supermancartoons/supermancartoons_layer0_8000000/supermancartoons_index0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/internetarchive_1.png" group-title="Movie Classics VOD",Dick Tracy 4 (1947)
 https://archive.org/download/dick_tracy_meets_gruesome/dick_tracy_meets_gruesome.mp4
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Electro Rock HD
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing French touch HD
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" group-title="Music Video | DJing",Djing (Karaoke HD v2)
+http://www.djing.com/tv/karaoke.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",404 Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
