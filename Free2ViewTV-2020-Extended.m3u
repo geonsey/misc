@@ -56,6 +56,7 @@
 # Update: 5/14/2020 - NEW CHANNELS ADDED: Added DIY DAILY channel in the Special Interest category.
 # Update: 5/17/2020 - NEW CHANNELS ADDED: By special request, added new ITALY | DPLAY category, Discovery networks in Italian. 
 # Update: 5/17/2020 - NEW CHANNELS ADDED: Added new category: Music Video | DJing 
+# Update: 5/20/2020 - NEW CHANNELS ADDED: Plymouth Rock TV in TRAVEL & TOURISM.
 # Update: TBD...TBD - NEW RADIO CHANNELS ADDED: Added new TuneIn + iHeartRadio category with a variety of news and music channels.
 #
 # ************************************************************************************************************************************* 
@@ -247,6 +248,8 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 4 (ISS 480p Cam)
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Travel & Tourism",Plymouth Rock TV
+https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",30A TV
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",Darcizzle Offshore
