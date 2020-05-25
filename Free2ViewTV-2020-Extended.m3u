@@ -62,10 +62,13 @@
 # Update: 5/20/2020 - NEW CHANNEL ADDED: NBCLX in NBC NEWS NETWORKS category. https://www.lx.com/live/
 # Update: 5/23/2020 - NEW CHANNELS ADDED: New channels from Redbox Free Live TV. https://www.redbox.com/stream-free-live-tv
 # Update: 5/24/2020 - NEW RADIO CHANNELS ADDED: Added new FREE RADIO category with a varied selection of NEWS and MUSIC streams.
+# Update: 5/25/2020 - PLAYLIST MAINTENANCE: Updated playlist with embedded EPG source URL at the beginning of the document...
+#                     #EXTM3U url-tvg="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml"
+#                     which is intended to automatically load EPG info without requiring to add the source in player settings.
 #
 # ************************************************************************************************************************************* 
 
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
